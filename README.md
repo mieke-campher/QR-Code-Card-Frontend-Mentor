@@ -1,3 +1,3 @@
-# QR Code Component Challenge - Frontend Mentor
+# QR Code Card Challenge - Frontend Mentor
 
-[Link to page](https://mieke-campher.github.io/FM-qrcode-card/)
+[view site](https://mieke-campher.github.io/QR-Code-Card-Frontend-Mentor/)
